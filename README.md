@@ -1,3 +1,7 @@
+Day 0 at 10 Academy task 1 challenge onPython Programing and Continuous Integration (CI) ..trying to complete the task 1
+any comment would be appreciated .
+
+
 # Twitter-Data-Analysis
 
 ### So here are the bare minimum requirement for completing this task
@@ -21,3 +25,4 @@ After Completing this Challenge, you would have explore
 - Bug Fix (Debugging)
 
 Have Fun and Cheers
+

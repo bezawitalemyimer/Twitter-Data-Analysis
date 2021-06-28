@@ -1,3 +1,8 @@
+This challeges are given by  10 Academy with diffrent tasks that will help me develop in unique way of learning and developing data science ,python ,machine learing .
+i am still learing and practicing and comments and suggestions will be very helpful. 
+
+below are Day 0 Task one requerments .
+
 # Twitter-Data-Analysis
 
 ### So here are the bare minimum requirement for completing this task
